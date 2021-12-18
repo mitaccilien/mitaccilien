@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mitaccilien
+- 👀 I’m interested in creating functional web application for the world using JavaScript and its many libraries
+- 🌱 I’m currently learning Swift
+- 💞️ I’m looking to collaborate on Github with other JavaScript developers to help and or create beautiful web or mobile application
+- 📫 How to reach me https://mitwebservices.com
